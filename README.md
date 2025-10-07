@@ -68,7 +68,3 @@ The pipeline performs **data cleaning, preprocessing, feature engineering, model
 - Integrate SHAP or LIME for explainability.  
 - Deploy the best model using Streamlit or Flask.  
 - Automate feature selection pipeline.  
-
----
-
-## 📂 Repository Structure
